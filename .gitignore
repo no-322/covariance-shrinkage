@@ -1,0 +1,16 @@
+# R session
+.RData
+.Rhistory
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Stock data (not redistributable, see README)
+data/stock_returns_clean.csv
+stock_returns_clean.xlsx
+
+# Old drafts / duplicate outputs
+Port Construction project.R
+data/*.R
+data/output/
