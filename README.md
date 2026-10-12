@@ -103,8 +103,8 @@ Plots of rolling returns and rolling vol for the stock universe are also in `out
 
 ## Reproducing
 ```bash
-git clone https://github.com/no-322/shrinkage-estimators-for-covariance-matrix.git
-cd shrinkage-estimators-for-covariance-matrix
+git clone https://github.com/no-322/covariance-shrinkage.git
+cd covariance-shrinkage
 Rscript -e 'install.packages(c("rugarch", "PeerPerformance"))'
 ```
 Then, in an R session started from the repo root:
